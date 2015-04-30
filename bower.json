@@ -1,0 +1,33 @@
+{
+  "name": "purescript-benchmark-trivial",
+  "homepage": "https://github.com/pseudonom/purescript-benchmark-trivial",
+  "description": "Trivial benchmarking library",
+  "keywords": [
+    "purescript",
+    "benchmark",
+    "benchmarking"
+  ],
+  "authors": [
+    "pseudonom <escalier@riseup.net>"
+  ],
+  "license": "AGPLv3",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "tests",
+    "test",
+    "tmp",
+    "bower.json",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-control": "~0.2.6",
+    "purescript-arrays": "~0.3.7",
+    "purescript-foldable-traversable": "~0.3.1",
+    "purescript-math": "~0.1.1"
+  },
+  "version": "0.0.0"
+}
